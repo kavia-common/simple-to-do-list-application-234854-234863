@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-to-do-list-application-234854-234863/database"
+}
